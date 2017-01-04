@@ -25,7 +25,7 @@ Sets up DB, paths etc.
 */
 
 // PrintMaster version
-define('VERSION', '1.4.0');
+define('VERSION', '1.4.1');
 
 // Do a check to see which init method we're using.
 if (file_exists(dirname(__FILE__) . '/init.php'))
