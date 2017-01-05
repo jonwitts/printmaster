@@ -11,4 +11,5 @@ INSERT INTO `tags` (`id`, `title`, `type`) VALUES
 (108, 'Belt', 'supply_type'),
 (109, 'Staples', 'supply_type'),
 (110, 'Finisher', 'supply_type'),
-(111, 'Maintenance kit', 'supply_type');
+(111, 'Maintenance kit', 'supply_type'),
+(112, 'Labels', 'supply_type');
